@@ -2,4 +2,4 @@
 
 ### Spark Mechanics
 
-[Spark](http://spark.apache.org/docs/latest/img/cluster-overview.png)
+(Spark)[http://spark.apache.org/docs/latest/img/cluster-overview.png]
